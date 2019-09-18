@@ -1,8 +1,9 @@
 Class Dog 
-  fido 
   
-  snoopy
+  fido = " " 
   
-  lassie 
+  snoopy = " "
+  
+  lassie = " "
   
 end 
