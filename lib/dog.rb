@@ -1,3 +1,8 @@
 Class Dog 
-pup = []
+  fido 
+  
+  snoopy
+  
+  lassie 
+  
 end 
